@@ -1,7 +1,8 @@
-# trabajos
+# Ofertas Laborales de BAFrontend
 Una lista de oportunidades de trabajo que pueden ser interesantes para la comunidad de BAFrontend
 
-## Como usar este repo
+### [Ver Ofertas Laborales >](https://github.com/bafrontend/trabajos/issues)
 
-- **Si querés compartir una oportunidad laboral** [abrí un issue](https://github.com/bafrontend/trabajos/issues)
-- **Si estás interesado en buscar oportunidades laborales** podés buscar en el [issue tracker](https://github.com/bafrontend/trabajos/issues)
+## Cómo comparto una oportunidad laboral?
+
+Es simple: **[abrí un issue](https://github.com/bafrontend/trabajos/issues)** para sumarlo a la lista. Sumá toda la información que creas relevante y asegurate de que el puesto esté vinculado a desarrollo Frontend.
